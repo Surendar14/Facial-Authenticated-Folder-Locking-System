@@ -164,21 +164,33 @@ finally:
                 st.success(f"The folder '{folder_path}' is now visible.")
 ```
 ## OUTPUT:
-## INTERFACE
-<img width="960" alt="2" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/37f8f9ac-ee23-4fb3-85d9-1f6359e23361">
-## AUTHENTICATION
-<img width="960" alt="3" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/15339b18-cf90-480e-935b-9d728d435cb8">
-## FOLDER SELECTION
-<img width="960" alt="4" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/e5ecec22-b540-422b-9049-352771aec408">
-## FOLDER HIDING
-<img width="960" alt="5" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/2df9cc0f-0318-4920-8e12-970672d4e8c4">
-## FOLDER HIDDEN
-<img width="960" alt="8" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/d164729a-7117-454e-ac47-e773d6faac2b">
-## FOLDER UNHIDING
-<img width="960" alt="10" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/a81d990b-fb39-45c4-87f3-d3277aa67a44">
-## RESULT
-<img width="960" alt="11" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/7b9591fa-d452-4d42-9563-4f72f1e7f8a3">
+## INTERFACE:
 
+<img width="960" alt="2" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/37f8f9ac-ee23-4fb3-85d9-1f6359e23361">
+
+## AUTHENTICATION;
+
+<img width="960" alt="3" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/15339b18-cf90-480e-935b-9d728d435cb8">
+
+## FOLDER SELECTION:
+
+<img width="960" alt="4" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/e5ecec22-b540-422b-9049-352771aec408">
+
+## FOLDER HIDING:
+
+<img width="960" alt="5" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/2df9cc0f-0318-4920-8e12-970672d4e8c4">
+
+## FOLDER HIDDEN:
+
+<img width="960" alt="8" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/d164729a-7117-454e-ac47-e773d6faac2b">
+
+## FOLDER UNHIDING:
+
+<img width="960" alt="10" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/a81d990b-fb39-45c4-87f3-d3277aa67a44">
+
+## RESULT:
+
+<img width="960" alt="11" src="https://github.com/Surendar14/Facial-Authenticated-Folder-Locking-System/assets/75235759/7b9591fa-d452-4d42-9563-4f72f1e7f8a3">
 
 
 
