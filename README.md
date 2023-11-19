@@ -163,9 +163,9 @@ finally:
                 unhide_folder(folder_path)
                 st.success(f"The folder '{folder_path}' is now visible.")
 ```
-# OUTPUT:
+## OUTPUT:
 
-# RESULT:
+## RESULT:
 The main script, when executed, opens a Streamlit web application. It captures frames from the webcam, performs facial authentication, and allows the user to hide or unhide a specified folder based on the authentication result.
 
 The final result is a facial authentication system with folder locking capabilities.
